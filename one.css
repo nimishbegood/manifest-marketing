@@ -2451,6 +2451,8 @@ blockquote {
 	letter-spacing: .2rem
 }
 .hero__top {
+  /* border: 1px solid red; */
+  height: 100px;
 	display: -webkit-box;
 	display: -webkit-flex;
 	display: -ms-flexbox;
@@ -2722,7 +2724,7 @@ blockquote {
 }
 .top__symbol {
 	width: 2vw;
-	min-width: 35px
+	min-width: 35px;
 }
 .s-about {
 	display: -webkit-box;
