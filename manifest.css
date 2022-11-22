@@ -1829,6 +1829,7 @@ blockquote {
 	display: flex;
 	overflow: hidden;
 	width: 100vw;
+	
 	height: 100vh
 }
 .hero__left {
@@ -3445,6 +3446,7 @@ blockquote {
 }
 @media screen and (max-width:991px) {
 	.s-hero {
+		
 		position: relative;
 		height: auto;
 		-webkit-box-orient: vertical;
